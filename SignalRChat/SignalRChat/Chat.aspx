@@ -412,7 +412,6 @@
     </div>
             </div>
           </div>
-
          <script src="Scripts/bootstrap.min.js"></script>
 
     </form>
